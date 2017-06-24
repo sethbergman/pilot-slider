@@ -1,5 +1,7 @@
 # Pilot Slider
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/pilot-slider.svg)](https://greenkeeper.io/)
+
 A Bootstrap theme with a node express backend
 
 --------------------------------------------------------------------------------
