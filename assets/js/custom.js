@@ -49,7 +49,7 @@ jQuery(document).ready(function( $ ) {
     });
 
     // ScrollReveal
-    window.sr = new scrollReveal();
+    // window.sr = new scrollReveal();
 
     // cache the window object
     $window = $(window);
