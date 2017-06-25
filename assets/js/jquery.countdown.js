@@ -99,7 +99,7 @@
 			container.find('.minutes_text').text(text_minutes);
 			container.find('.seconds_text').text(text_seconds);
 		};
-		
+
 		// start
 		var interval = setInterval(countdown, 1000);
 	};
